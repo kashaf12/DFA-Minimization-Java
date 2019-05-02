@@ -1,4 +1,4 @@
-# DFA-Minimizor
+# DFA-Minimization-Java
 A java Program used to  - 
 * Minimize a Deterministic Finite Automata(DFA)
 * Convert Non-Deterministic Finite Automata(NFA) to Deterministic Finite Automata(DFA)
